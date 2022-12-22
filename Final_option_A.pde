@@ -1,5 +1,5 @@
 //Final assignment option A
-//Lexie Zhang
+//Aoying Zhang
 //CS30
 //
 
