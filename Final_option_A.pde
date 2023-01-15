@@ -1,7 +1,4 @@
-//Final assignment option A
-//Aoying Zhang
-//CS30
-//
+
 
 Game currentGame;
 void setup() {
